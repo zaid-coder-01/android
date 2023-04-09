@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17774954769",
+    "project_id": "crms-2f4fc",
+    "storage_bucket": "crms-2f4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17774954769:android:defb53d98560370c1924b0",
+        "android_client_info": {
+          "package_name": "com.example.crm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17774954769-4p2hangdruc5t2k8l27m0amk85b1cumu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoZVknJD6vVt66XZTWkkx6wMIIdPzazpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17774954769-4p2hangdruc5t2k8l27m0amk85b1cumu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
